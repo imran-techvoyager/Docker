@@ -9,3 +9,5 @@ app.get('/', (req, res) => {
         message: "healthy server"
     })
 });
+
+app.listen(3000);
